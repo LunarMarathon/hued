@@ -1,0 +1,17 @@
+.paletteContainer {
+    display: grid;
+    grid-auto-flow: column;
+    height: 200px;
+    margin: 10px;
+}
+
+.paletteContainer div {
+    height: 200px;
+}
+
+.mainContainer{
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
